@@ -4,7 +4,7 @@ from diploma import __version__
 
 if __name__ == '__main__':
     setup(
-            name='forecast',
+            name='python-ts-anomaly',
             version=__version__,
             description='Bayesian anomaly detection',
             url='https://github.yandex-team.ru/ferres/diploma/',
